@@ -19,7 +19,6 @@ package org.apache.dubbo.spring.boot.sample.consumer.bootstrap;
 import org.apache.dubbo.config.annotation.DubboReference;
 import org.apache.dubbo.config.annotation.Method;
 import org.apache.dubbo.spring.boot.sample.consumer.DemoService;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.ApplicationRunner;
